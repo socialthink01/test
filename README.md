@@ -1,3 +1,3 @@
 # test
-this is firts repository
+this is first repository
 1
